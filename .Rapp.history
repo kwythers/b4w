@@ -1,0 +1,3 @@
+load(".RData")
+ls()
+q()
